@@ -1,3 +1,4 @@
+![logo](https://github.com/laibairshadrao-ops/laibairshadrao-ops/blob/main/banner.jpg)
 <h1 align="center">Hi , I'm Laiba Irshad</h1>
 <h3 align="center">A passionate AI/ML Engineer from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="code.png">
